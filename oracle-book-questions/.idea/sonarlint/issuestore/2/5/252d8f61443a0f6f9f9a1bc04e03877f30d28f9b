@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÔÖ«şÿÿÿÿ8ıóô•Œ1
+z
+java:S1450"XRemove the "pandaBear" field and declare it as a local variable in the relevant methods.(’’„¹şÿÿÿÿ8¢ù·”Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜µøÜüÿÿÿÿ8¤ù·”Œ1
+_
+java:S1854"=Remove this useless assignment to local variable "brownBear".(¸¨Ãúÿÿÿÿ8¤ù·”Œ1
+_
+java:S1854"=Remove this useless assignment to local variable "polarBear".(ÿİâ€ıÿÿÿÿ8¤ù·”Œ1
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¥ù·”Œ1
+O
+java:S1068"-Remove this unused "pandaBear" private field.(’’„¹şÿÿÿÿ8¥ù·”Œ1
